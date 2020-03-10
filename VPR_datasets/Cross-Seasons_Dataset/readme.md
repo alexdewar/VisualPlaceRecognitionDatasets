@@ -1,4 +1,4 @@
-Cross Seasons Dataset. Bibtex below;
+Cross Seasons Dataset. This dataset is open-source and you can find corresponding files from the below paper.
 
 @inproceedings{larsson2019cross,
   title={A cross-season correspondence dataset for robust semantic segmentation},
