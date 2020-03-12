@@ -1,4 +1,4 @@
-This repository contains a collection of datasets used for evaluating Visual Place Recognition techniques. The spirit of this repo is to streamline and reduce overheads to promote research in VPR. All rights are reserved with the original authors and contributors of these datasets and have been cited in [1].
+This repository contains a collection of datasets used for evaluating Visual Place Recognition techniques. The spirit of this repo is to streamline and reduce overheads to promote research in VPR. All rights are reserved with the original authors and contributors of these datasets who have been cited in [1].
 
 This repository is a part of our extensive evaluation performed in ICRA 2019 Workshop of Database Generation and Benchmarking [1]. If you find this repo useful, please cite our work as below;
 
