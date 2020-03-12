@@ -1,4 +1,6 @@
-Cross Seasons Dataset. This dataset is open-source and you can find corresponding files from the below paper.
+Cross Seasons Dataset. This dataset is open-source and you can find corresponding files from the below github repository.
+
+https://github.com/maunzzz/cross-season-segmentation
 
 @inproceedings{larsson2019cross,
   title={A cross-season correspondence dataset for robust semantic segmentation},
